@@ -1,13 +1,13 @@
 # Snake STM32
 
-:::info  
+:::info
 **Author:** ZAPLISHNYI Yehor  
 **GitHub Project:**	https://github.com/UPB-PMRust-Students/fils-project-2026-yehorzaplishnyi  
 ::: 
 
 ## Description  
 
-The project uses an STM32F401RE microcontroller as its core component, a TFT screen for display output, and a PS2-style joystick to control the snake. The main objective of the game is to achieve the highest score by eating apples  
+The project uses an STM32F401RE microcontroller as its core component, a TFT screen for display output and a PS2-style joystick to control the snake. The main objective of the game is to achieve the highest score by eating apples  
 
 ## Motivation  
 
@@ -20,6 +20,8 @@ Playing games from a young age inspired me to create something new in the gaming
 	-------------			----------------		-----------------  
 	|	Laptop	|----------|	Stm F401RE	|-------|	Joystick	|  
 	-------------			-----------------		-----------------  
+	
+![Project photo] (snake.jpg)  
 ## Schematics   
 ![Snake Schematics](snake.svg.svg)  
 
