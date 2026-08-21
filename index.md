@@ -1,6 +1,6 @@
 # Snake STM32
 
-:::info
+:::info  
 **Author:** ZAPLISHNYI Yehor  
 **GitHub Project:**	https://github.com/UPB-PMRust-Students/fils-project-2026-yehorzaplishnyi  
 ::: 
